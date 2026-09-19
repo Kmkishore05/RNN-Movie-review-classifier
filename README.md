@@ -71,5 +71,16 @@ Simple RNN Layer
 Dense Layer
      ↓
 Sigmoid Activation
+
+
+## 📸 Screenshots
+
+### 😊 Positive Review
+
+![Positive Prediction](screenshots/positive.png)
+
+### 😞 Negative Review
+
+![Negative Prediction](screenshots/negative.png)
      ↓
 Positive / Negative
