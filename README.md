@@ -20,6 +20,17 @@ The trained model takes a movie review as input and produces a prediction score:
 The model is integrated into a Streamlit application to provide an easy-to-use interface for testing new movie reviews.
 
 ---
+## 📸 Screenshots
+
+### 😊 Positive Review
+
+![Positive Prediction](screenshots/positive.png)
+
+### 😞 Negative Review
+
+![Negative Prediction](screenshots/negative.png)
+     ↓
+Positive / Negative
 
 ## ✨ Features
 
@@ -73,14 +84,4 @@ Dense Layer
 Sigmoid Activation
 
 
-## 📸 Screenshots
 
-### 😊 Positive Review
-
-![Positive Prediction](screenshots/positive.png)
-
-### 😞 Negative Review
-
-![Negative Prediction](screenshots/negative.png)
-     ↓
-Positive / Negative
